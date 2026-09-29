@@ -35,7 +35,3 @@ python bot.py
 `RENDER_EXTERNAL_URL` Render предоставляет автоматически. Если он есть, бот запускается в webhook-режиме.
 
 Health endpoint: `/health`.
-
-## Важно
-
-`.env`, локальная SQLite-база, виртуальное окружение и секреты не должны попадать в GitHub.
