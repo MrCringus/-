@@ -8,3 +8,4 @@ python-dotenv>=1.1,<2
 requests>=2.32,<3
 SQLAlchemy>=2.0,<3
 tzdata>=2025.2,<2027
+greenlet
